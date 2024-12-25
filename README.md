@@ -1,3 +1,9 @@
+# Basic-networking
+
+Submission  Proyek Membangun Web Server - Kelas Belajar Jaringan Komputer untuk Pemula
+
+[Sertifikat Kompetensi Kelas Belajar Jaringan Komputer untuk Pemula](https://www.dicoding.com/certificates/JMZV46RLNXN9)
+
 # Konfigurasi Reverse Proxy Server Menggunakan Nginx dan Apache2
 
 Untuk menjalankan project ini, pastikan `Ubuntu` sudah terinstall pada komputer/laptop Anda.
