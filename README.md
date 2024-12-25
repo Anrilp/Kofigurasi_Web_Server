@@ -70,11 +70,12 @@ sudo a2enmod proxy
 sudo a2enmod proxy_http
 sudo a2enmod headers
 sudo a2enmod rewrite
+sudo service apache2 restart
 ```
 3. Masukan code sesuai dengan folder Konfig
 
 ```
 sudo nano /etc/apache2/sites-available/000-default.conf
 sudo nano /etc/apache2/ports.conf
-sudo service nginx restart
+sudo service apache2 restart
 ```
